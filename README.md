@@ -2,6 +2,8 @@
 
 游戏早上10点多更新完毕，PUBG改变了封包密钥. 等待破解新的封包加密协议的密钥...雷达等待更新........
 
+不要在催更了,破解你与游戏服务器之间的加密通讯协议不是那么容易的,PUBG又不是小游戏.需要耐心等等 短期内暂时可能没有
+
 # Sci Chicken
 
 1、因地图服务器出现问题，所以改成本地地图版。
@@ -36,5 +38,6 @@ yum install git;git clone https://github.com/33562064/dalaobuluo.git; chmod +x .
 Local computer using SSTAP connection
 
 Watching address  serverIP:20086/# dalaobuluo
+# dalaobuluo
 # dalaobuluo
 # dalaobuluo
